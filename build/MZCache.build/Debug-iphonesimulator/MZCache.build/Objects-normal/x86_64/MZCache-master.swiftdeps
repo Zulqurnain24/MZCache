@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "92b9d1e291d6a54276ca0631b0af434d"
+build_time: [1577434387, 716516000]
+inputs:
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZCache/MZCache/Utilities/Constants.swift": [1577353743, 533333411]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZCache/MZCache/CacheItemModel/CacheItem.swift": [1577353743, 576899537]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZCache/MZCache/Configurations/CacheUpdateConfig.swift": [1577353743, 542107094]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZCache/MZCache/Manager/CacheManager.swift": [1577353743, 563007034]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZCache/MZCache/Configurations/CacheConfig.swift": [1577353743, 547731017]

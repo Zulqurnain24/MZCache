@@ -1,0 +1,10 @@
+framework module MZCache {
+  umbrella header "MZCache.h"
+
+  export *
+  module * { export * }
+}
+
+module MZCache.__Swift {
+    exclude header "MZCache-Swift.h"
+}
